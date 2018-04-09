@@ -1,0 +1,7 @@
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day3\Ex_07\bin\Debug\Ex_07.exe.config
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day3\Ex_07\bin\Debug\Ex_07.exe
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day3\Ex_07\bin\Debug\Ex_07.pdb
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day3\Ex_07\obj\Debug\Ex_07.csprojResolveAssemblyReference.cache
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day3\Ex_07\obj\Debug\Ex_07.csproj.CoreCompileInputs.cache
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day3\Ex_07\obj\Debug\Ex_07.exe
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day3\Ex_07\obj\Debug\Ex_07.pdb

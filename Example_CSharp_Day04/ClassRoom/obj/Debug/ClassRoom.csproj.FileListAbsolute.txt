@@ -1,0 +1,6 @@
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ClassRoom\bin\Debug\ClassRoom.exe.config
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ClassRoom\bin\Debug\ClassRoom.exe
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ClassRoom\bin\Debug\ClassRoom.pdb
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ClassRoom\obj\Debug\ClassRoom.csproj.CoreCompileInputs.cache
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ClassRoom\obj\Debug\ClassRoom.exe
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ClassRoom\obj\Debug\ClassRoom.pdb

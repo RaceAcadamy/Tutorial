@@ -1,0 +1,7 @@
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Example_CSharp_Day2\bin\Debug\Example_CSharp_Day2.exe.config
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Example_CSharp_Day2\bin\Debug\Example_CSharp_Day2.exe
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Example_CSharp_Day2\bin\Debug\Example_CSharp_Day2.pdb
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Example_CSharp_Day2\obj\Debug\Ex_01_Function.csprojResolveAssemblyReference.cache
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Example_CSharp_Day2\obj\Debug\Ex_01_Function.csproj.CoreCompileInputs.cache
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Example_CSharp_Day2\obj\Debug\Example_CSharp_Day2.exe
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Example_CSharp_Day2\obj\Debug\Example_CSharp_Day2.pdb

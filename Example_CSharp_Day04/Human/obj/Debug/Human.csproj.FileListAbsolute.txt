@@ -1,0 +1,6 @@
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\Human\obj\Debug\Human.csproj.CoreCompileInputs.cache
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\Human\bin\Debug\Human.exe.config
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\Human\bin\Debug\Human.exe
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\Human\bin\Debug\Human.pdb
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\Human\obj\Debug\Human.exe
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\Human\obj\Debug\Human.pdb

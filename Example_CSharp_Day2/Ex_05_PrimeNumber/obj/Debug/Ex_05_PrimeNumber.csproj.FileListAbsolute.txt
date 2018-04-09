@@ -1,0 +1,7 @@
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Ex_05_PrimeNumber\obj\Debug\Ex_05_PrimeNumber.csprojResolveAssemblyReference.cache
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Ex_05_PrimeNumber\obj\Debug\Ex_05_PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Ex_05_PrimeNumber\bin\Debug\Ex_05_PrimeNumber.exe.config
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Ex_05_PrimeNumber\bin\Debug\Ex_05_PrimeNumber.exe
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Ex_05_PrimeNumber\bin\Debug\Ex_05_PrimeNumber.pdb
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Ex_05_PrimeNumber\obj\Debug\Ex_05_PrimeNumber.exe
+C:\Users\Thanushiya\source\repos\Example_CSharp_Day2\Ex_05_PrimeNumber\obj\Debug\Ex_05_PrimeNumber.pdb

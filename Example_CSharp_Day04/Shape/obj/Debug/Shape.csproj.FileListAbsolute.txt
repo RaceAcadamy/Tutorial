@@ -1,0 +1,6 @@
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\Shape\bin\Debug\Shape.exe.config
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\Shape\bin\Debug\Shape.exe
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\Shape\bin\Debug\Shape.pdb
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\Shape\obj\Debug\Shape.exe
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\Shape\obj\Debug\Shape.pdb

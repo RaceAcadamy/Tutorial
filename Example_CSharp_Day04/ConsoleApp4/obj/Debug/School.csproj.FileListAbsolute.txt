@@ -1,0 +1,7 @@
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ConsoleApp4\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\ConsoleApp4\obj\Debug\School.csprojResolveAssemblyReference.cache

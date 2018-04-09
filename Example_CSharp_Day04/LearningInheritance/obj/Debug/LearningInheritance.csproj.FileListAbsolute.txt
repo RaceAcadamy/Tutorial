@@ -1,0 +1,2 @@
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\LearningInheritance\obj\Debug\LearningInheritance.csprojResolveAssemblyReference.cache
+C:\Users\PBA\Desktop\Learn C#\Source Code\ConsoleApp1\LearningInheritance\obj\Debug\LearningInheritance.csproj.CoreCompileInputs.cache
