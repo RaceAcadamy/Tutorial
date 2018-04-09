@@ -1,0 +1,6 @@
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_09_For_Loop\bin\Debug\Ex_09_For_Loop.exe
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_09_For_Loop\bin\Debug\Ex_09_For_Loop.pdb
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_09_For_Loop\obj\Debug\Ex_09_For_Loop.csproj.CoreCompileInputs.cache
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_09_For_Loop\obj\Debug\Ex_09_For_Loop.exe
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_09_For_Loop\obj\Debug\Ex_09_For_Loop.pdb
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_09_For_Loop\obj\Debug\Ex_09_For_Loop.csprojResolveAssemblyReference.cache

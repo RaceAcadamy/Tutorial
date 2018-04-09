@@ -1,0 +1,6 @@
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_01_DataType_and_Variable\bin\Debug\Ex_01_DataType_and_Variable.exe
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_01_DataType_and_Variable\bin\Debug\Ex_01_DataType_and_Variable.pdb
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_01_DataType_and_Variable\obj\Debug\Ex_01_DataType_and_Variable.csprojResolveAssemblyReference.cache
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_01_DataType_and_Variable\obj\Debug\Ex_01_DataType_and_Variable.csproj.CoreCompileInputs.cache
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_01_DataType_and_Variable\obj\Debug\Ex_01_DataType_and_Variable.exe
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_01_DataType_and_Variable\obj\Debug\Ex_01_DataType_and_Variable.pdb

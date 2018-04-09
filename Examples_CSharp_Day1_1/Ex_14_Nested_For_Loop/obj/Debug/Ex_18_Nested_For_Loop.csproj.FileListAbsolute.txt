@@ -1,0 +1,5 @@
+\\pba-dc-01\home drives\isa.nasser\Desktop\Thanushiyan\Source Code\Examples_CSharp_Day_01\Ex_14_Nested_For_Loop\bin\Debug\Ex_14_Nested_For_Loop.exe
+\\pba-dc-01\home drives\isa.nasser\Desktop\Thanushiyan\Source Code\Examples_CSharp_Day_01\Ex_14_Nested_For_Loop\bin\Debug\Ex_14_Nested_For_Loop.pdb
+\\pba-dc-01\home drives\isa.nasser\Desktop\Thanushiyan\Source Code\Examples_CSharp_Day_01\Ex_14_Nested_For_Loop\obj\Debug\Ex_18_Nested_For_Loop.csproj.CoreCompileInputs.cache
+\\pba-dc-01\home drives\isa.nasser\Desktop\Thanushiyan\Source Code\Examples_CSharp_Day_01\Ex_14_Nested_For_Loop\obj\Debug\Ex_14_Nested_For_Loop.exe
+\\pba-dc-01\home drives\isa.nasser\Desktop\Thanushiyan\Source Code\Examples_CSharp_Day_01\Ex_14_Nested_For_Loop\obj\Debug\Ex_14_Nested_For_Loop.pdb

@@ -1,0 +1,5 @@
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_02_Operators_3\bin\Debug\Ex_02_Operators_3.exe
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_02_Operators_3\bin\Debug\Ex_02_Operators_3.pdb
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_02_Operators_3\obj\Debug\Ex_02_Operators_3.csproj.CoreCompileInputs.cache
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_02_Operators_3\obj\Debug\Ex_02_Operators_3.exe
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_02_Operators_3\obj\Debug\Ex_02_Operators_3.pdb

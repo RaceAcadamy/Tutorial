@@ -1,0 +1,5 @@
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_10_While_Loop\bin\Debug\Ex_10_While_Loop.exe
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_10_While_Loop\bin\Debug\Ex_10_While_Loop.pdb
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_10_While_Loop\obj\Debug\Ex_10_While_Loop.csproj.CoreCompileInputs.cache
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_10_While_Loop\obj\Debug\Ex_10_While_Loop.exe
+C:\Users\isa.nasser\source\repos\Examples_CSharp_Day_01\Ex_10_While_Loop\obj\Debug\Ex_10_While_Loop.pdb
