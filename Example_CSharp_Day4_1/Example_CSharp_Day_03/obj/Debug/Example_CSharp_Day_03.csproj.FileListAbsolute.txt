@@ -1,0 +1,6 @@
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Example_CSharp_Day_03\bin\Debug\Example_CSharp_Day_03.exe
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Example_CSharp_Day_03\bin\Debug\Example_CSharp_Day_03.pdb
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Example_CSharp_Day_03\obj\Debug\Example_CSharp_Day_03.csprojResolveAssemblyReference.cache
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Example_CSharp_Day_03\obj\Debug\Example_CSharp_Day_03.csproj.CoreCompileInputs.cache
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Example_CSharp_Day_03\obj\Debug\Example_CSharp_Day_03.exe
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Example_CSharp_Day_03\obj\Debug\Example_CSharp_Day_03.pdb

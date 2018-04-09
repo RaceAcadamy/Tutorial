@@ -1,0 +1,11 @@
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Student_Management\bin\Debug\Student_Management.exe
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Student_Management\bin\Debug\Student_Management.pdb
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Student_Management\obj\Debug\Student_Management.csprojResolveAssemblyReference.cache
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Student_Management\obj\Debug\EX_01_WindowsForm_Project.MainUI.resources
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Student_Management\obj\Debug\Student_Management.Properties.Resources.resources
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Student_Management\obj\Debug\EX_01_WindowsForm_Project.StudentUI.resources
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Student_Management\obj\Debug\EX_01_WindowsForm_Project.SubjectUI.resources
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Student_Management\obj\Debug\Student_Management.csproj.GenerateResource.Cache
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Student_Management\obj\Debug\Student_Management.csproj.CoreCompileInputs.cache
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Student_Management\obj\Debug\Student_Management.exe
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Student_Management\obj\Debug\Student_Management.pdb

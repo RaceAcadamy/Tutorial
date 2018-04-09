@@ -1,0 +1,9 @@
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Calculator\bin\Debug\Calculator.exe
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Calculator\bin\Debug\Calculator.pdb
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Calculator\obj\Debug\Calculator.Calculator.resources
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Calculator\obj\Debug\Calculator.exe
+c:\users\isa.nasser\source\repos\Example_CSharp_Day_03\Calculator\obj\Debug\Calculator.pdb

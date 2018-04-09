@@ -1,0 +1,6 @@
+J:\Thanushiyan\Source Code\Example_CSharp_Day_03\Factorial\bin\Debug\Factorial.exe.config
+J:\Thanushiyan\Source Code\Example_CSharp_Day_03\Factorial\bin\Debug\Factorial.exe
+J:\Thanushiyan\Source Code\Example_CSharp_Day_03\Factorial\bin\Debug\Factorial.pdb
+J:\Thanushiyan\Source Code\Example_CSharp_Day_03\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+J:\Thanushiyan\Source Code\Example_CSharp_Day_03\Factorial\obj\Debug\Factorial.exe
+J:\Thanushiyan\Source Code\Example_CSharp_Day_03\Factorial\obj\Debug\Factorial.pdb
